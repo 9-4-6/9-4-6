@@ -18,10 +18,10 @@
    gitee：https://gitee.com/GZ-jelly  
 
 - ✨ Contribute to open source projects  
+   https://github.com/9-4-6/soso-web  
    https://github.com/9-4-6/soso  
    https://github.com/cskefu/cskefu  
-   https://github.com/Castodon/castodon  
-   
+   https://github.com/Castodon/castodon   
 - ⚡ interesting
   
    看书 、街舞、旅行 
